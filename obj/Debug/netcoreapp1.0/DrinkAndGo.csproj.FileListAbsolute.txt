@@ -1,0 +1,11 @@
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.deps.json
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.runtimeconfig.json
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.runtimeconfig.dev.json
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.dll
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.pdb
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.csprojAssemblyReference.cache
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.csproj.CoreCompileInputs.cache
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.AssemblyInfoInputs.cache
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.AssemblyInfo.cs
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.dll
+C:\Users\TED\Desktop\asp.net core\DrinkAndGo-master\DrinkAndGo-master\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.pdb
